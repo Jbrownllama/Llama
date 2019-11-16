@@ -1,0 +1,12 @@
+Origin: Llama
+Label: Llama
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Amazing and fun tweaks
+
+SHA256:
+ c4ca14d0aac2fb418e4120b8fa6e59c04c3b723510970fc98743a8497425faaf 572 Packages.bz2
+ 91063b6153b544121ad90bb6891e9d9218b7d376e380e740007871825ed00d1c 576 Packages.xz
